@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leinadj72
-- 👀 I’m interested in software, website development, ethical hacking and cyber sycurity!
-- 🌱 I’m currently learning HTML CSS JS and Bootstrap, Flutter ...
-- 💞️ I’m looking to collaborate on software, website development, ethical hacking and cyber sycurity!
+- 👀 I’m interested in website, mobile and web application development!
+- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap, PHP, MySQL and Flutter ...
+- 💞️ I’m looking to collaborate on software and website development!
 - 📫 How to reach me : leinrun@gmail.com, +233 59 413 9235.
 
 <!---
